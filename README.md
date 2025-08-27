@@ -54,7 +54,7 @@
 
 ## 🧰 &nbsp;Tools
   <p align="left"> 
-    <img width="100%" src="https://skillicons.dev/icons?i=py,django,sqlite,angular,nodejs,react,vite,tailwind,html,css,js,cpp,java,spring,mongodb,notion,ubuntu,linux,figma,git,github,azure,idea,pycharm,vscode,arduino,bash"
+    <img width="100%" src="https://skillicons.dev/icons?i=py,django,sqlite,angular,nodejs,react,vite,tailwind,html,css,js,dart,cpp,java,spring,mongodb,notion,ubuntu,linux,figma,git,github,azure,idea,pycharm,vscode,arduino,bash"
   </p>
 
 <!--## 👁️‍🗨️ &nbsp;Views
