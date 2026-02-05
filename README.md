@@ -60,5 +60,10 @@
 <!--## 👁️‍🗨️ &nbsp;Views
 <img src="https://visitcount.itsvg.in/api?id=ppfuark&icon=5&color=11">-->
 
+<br>
+
+<br>
+
+<img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=vvciq8inlgslf32xirr70bnh2&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0D1117&interchange=false&profanity=false&mode=dark&bar_color=9a1eb3&bar_color_cover=false"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7700B8&height=100&section=footer"/>
