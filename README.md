@@ -14,7 +14,7 @@
 
 <!-- <p align="center"><strong>GitHub Status</strong></p> -->
 
-| <p align="center"><a href="https://github.com/ppfuark/FastAPI-React_Bakery"><img width="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=ppfuark&repo=FastAPI-React_Bakery&theme=midnight-purple&border_color=30363f&border_radius=0&hide_border=true&bg_color=0D1117"/></a></p> <p align="center"><a href="https://github.com/ppfuark/Studies.git"><img width="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=ppfuark&repo=Studies&theme=midnight-purple&border_color=30363f&border_radius=0&hide_border=true&bg_color=0D1117"/></a></p>  | <a href="https://github-readme-stats.vercel.app/api?username=ppfuark&show_icons=true&hide_border=true&theme=midnight-purple&border_radius=0&border_color=30363d&hide_title=true&card_width=550&bg_color=0D1117"><img src="https://github-readme-stats.vercel.app/api?username=ppfuark&show_icons=true&hide_border=true&theme=midnight-purple&border_radius=0&border_color=30363d&hide_title=true&card_width=550&bg_color=0D1117&text_color=9845f3"/></a> <a href="https://nirzak-streak-stats.vercel.app/?user=ppfuark&hide_border=true&theme=midnight-purple&border_radius=0&border=30363d&locale=en-US&card_width=550&background=0D1117"><img src="https://nirzak-streak-stats.vercel.app/?user=ppfuark&hide_border=true&theme=midnight-purple&border_radius=0&border=30363d&locale=en-US&card_width=550&background=0D1117"/></a>
+| <p align="center"><a href="https://github.com/ppfuark/WorldSkillsByModules"><img width="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=ppfuark&repo=WorldSkillsByModules&theme=midnight-purple&border_color=30363f&border_radius=0&hide_border=true&bg_color=0D1117"/></a></p> <p align="center"><a href="https://github.com/ppfuark/1_IF_ADS"><img width="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=ppfuark&repo=1_IF_ADS&theme=midnight-purple&border_color=30363f&border_radius=0&hide_border=true&bg_color=0D1117"/></a></p>  | <a href="https://github-readme-stats.vercel.app/api?username=ppfuark&show_icons=true&hide_border=true&theme=midnight-purple&border_radius=0&border_color=30363d&hide_title=true&card_width=550&bg_color=0D1117"><img src="https://github-readme-stats.vercel.app/api?username=ppfuark&show_icons=true&hide_border=true&theme=midnight-purple&border_radius=0&border_color=30363d&hide_title=true&card_width=550&bg_color=0D1117&text_color=9845f3"/></a> <a href="https://nirzak-streak-stats.vercel.app/?user=ppfuark&hide_border=true&theme=midnight-purple&border_radius=0&border=30363d&locale=en-US&card_width=550&background=0D1117"><img src="https://nirzak-streak-stats.vercel.app/?user=ppfuark&hide_border=true&theme=midnight-purple&border_radius=0&border=30363d&locale=en-US&card_width=550&background=0D1117"/></a>
 |--|--|
 
 <br>
@@ -29,7 +29,6 @@
         src="http://github-readme-stats.vercel.app/api/top-langs/?username=ppfuark&layout=compact&theme=midnight-purple"
         alt="Paulo Henrique github stats" />
 </div>
-<br/>
 <br/>
 <br/>
 <br/>
